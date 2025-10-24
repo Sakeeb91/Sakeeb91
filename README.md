@@ -60,5 +60,3 @@ I embrace **continuous learning** and view every challenge as an opportunity to 
 </p>
 
 ---
-
-⭐ _"From computational physics to financial analysis to full-stack development—driven by curiosity, powered by consistency, and committed to building solutions that matter."_
