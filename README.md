@@ -1,23 +1,62 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shafkat
-===============================================================================================================================
+# 👋 Welcome
 
-Data Engineer
--------------
+My name is **Shafkat Rahman**, a **Full-Stack Developer** passionate about building meaningful software solutions that solve real-world problems. My journey into software development is unique—grounded in **physics, shaped by finance, and driven by technology**.
 
-As a private equity research analyst, I spent 2 years working on various financial projects, analyzing data and conducting research to inform investment decisions. While I enjoyed this role and gained valuable skills in financial analysis and data interpretation, I realized that I wanted to explore a different career path that allowed me to focus on my strengths in creative problem-solving and data analysis. After researching different roles in the tech industry, I discovered the field of data engineering and saw that it aligned perfectly with my skills and interests. I began learning about data engineering concepts and technologies, such as SQL, Python, and ETL pipelines and was drawn to this role's challenging and rewarding nature. I am now transitioning into a career as a data engineer, using my skills in research and numerical analysis to design and build scalable data systems and pipelines. I am excited to apply my problem-solving skills to new challenges in this field and to continue learning and growing in my career.
+I hold a **Bachelor's degree in Physics from Concordia University, Montréal**, where I conducted **undergraduate research in computational physics**. After graduation, I spent **2 years as a Private Equity Research Analyst**, honing my skills in **data analysis, research methodology, and problem-solving** in high-stakes financial environments.
 
-* 🌍  I'm based in Montréal
-* 🧠  I'm learning quantum algorithm design for financial systems
-* 🤝  I'm open to collaborating on quantum computing, computational physics, physics inspired neural networks
+In **2022**, I made the leap into programming, completing **Le Wagon's Data Science bootcamp** and immersing myself in software development. The emergence of **generative AI in 2024-2025** accelerated my learning, and I've been building **production-ready applications** ever since. While I'm early in my professional development career, my foundation in **computational thinking, analytical rigor, and continuous learning** drives me to create **impactful, user-centered solutions**.
 
-### Skills
+## Current Projects
 
+### **EchoCall** – AI Companion for Seniors
+An AI-powered conversational assistant designed to combat **loneliness and social isolation** among seniors. EchoCall provides **empathetic, natural conversations** using advanced language models, helping elderly users stay connected and engaged.
+
+**Focus Areas:** AI/ML integration, conversational design, accessibility, user experience for non-technical audiences
+
+### **Service Pronto** – Restaurant QR Code Ordering System
+A full-stack application enabling **seamless digital ordering** for restaurants through QR code technology. Currently under development with commercial deployment planned.
+
+**Tech Stack:** Full-stack development, payment integration, real-time order management
+_(Details limited due to NDA)_
+
+## Education & Background
+
+- **B.Sc. in Physics** – Concordia University, Montréal
+  - **Computational Physics Research** (Undergraduate)
+- **Data Science Bootcamp** – Le Wagon
+- **Private Equity Research Analyst** – 2 years of professional experience in financial analysis and data-driven decision making
+
+## Philosophy
+
+I believe in **consistency, hard work, and never giving up**. What excites me most about software engineering is the **ability to build**—to transform ideas into tangible solutions that make people's lives better. My background in **physics taught me to think systematically**, finance **taught me to solve complex problems under pressure**, and development **gives me the tools to create**.
+
+I embrace **continuous learning** and view every challenge as an opportunity to grow. The rapid evolution of AI and development tools has democratized software creation, and I'm committed to leveraging these technologies to build **innovative, accessible, and impactful applications**.
+
+* 🌍  Based in **Montréal, Canada**
+* 🔬  Background in **Physics & Computational Science**
+* 🤝  Open to collaborating on **AI-driven applications, computational physics projects, and full-stack development**
+
+## Technical Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
 </p>
 
+## Connect with Me
 
-### Socials
+<p align="left">
+<a href="https://www.github.com/Sakeeb91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/shafkat-rahman/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.medium.com/@sakeebrahman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+<a href="https://hashnode.com/@Sakeeb.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/Sakeeb91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Sakeeb91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@Sakeeb.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shafkat-rahman/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sakeebrahman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sakeeb91" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+---
